@@ -277,7 +277,7 @@ function LoginScreen({ onLogin, error }) {
           <div style={styles.loginHint}>
             <span>
               Demo — Admin: <b>admin / admin123</b> &nbsp;|&nbsp; Teacher:{' '}
-              <b>sarah.jones / teacher123</b>
+              <b>adarsh.sudeep / adarsh123</b>
             </span>
           </div>
         </div>
